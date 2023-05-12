@@ -6,12 +6,27 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <h1>Pythle</h1>
-    <span>Solve Python Puzzles</span>
+    <h1>Wilson's Puzzles</h1>
+    <span>Solve Programming Puzzles</span>
 
     <h1 id="score">0</h1>
     <div id="failures">
-        <img src="../assets/empty.png" alt="">
+        <img src="../assets/empty.png">
+        <img src="../assets/empty.png">
+        <img src="../assets/empty.png">
     </div>
+    <span id="difficulty">Difficulty: 350 Elo</span>
+
+    <div id="puzzle">
+        <img id="puzzleImage" src="../assets/puzzles/Puzzle1.png">
+        <br>
+        <input id="puzzleAnswer" type="text">
+        <br>
+        <button id="puzzleSubmit">Submit</button>
+    </div>
+
+    <i>Predict what the program will print.<br>3 losses and you die. Don't cheat!</i>
+
+    <script src="puzzle.js"></script>
 </body>
 </html>
