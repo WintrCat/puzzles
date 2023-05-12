@@ -1,5 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
 body {
     text-align: center;
-    
+
     background-color: rgb(2, 0, 10);
+
+    color: white;
+    font-family: "Fredoka", sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0px 0px 5px 0px;
+}
+
+#score {
+    margin-top: 20px;
+
+    font-size: 72px;
 }
