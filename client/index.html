@@ -3,7 +3,7 @@
 <head>
     <title>Puzzles</title>
 
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="/client/index.css">
 </head>
 <body>
     <h1>Wilson's Puzzles</h1>
@@ -11,14 +11,14 @@
 
     <h1 id="score">0</h1>
     <div id="failures">
-        <img src="../assets/empty.png">
-        <img src="../assets/empty.png">
-        <img src="../assets/empty.png">
+        <img id="fail1" src="/assets/empty.png">
+        <img id="fail2" src="/assets/empty.png">
+        <img id="fail3" src="/assets/empty.png">
     </div>
-    <span id="difficulty">Difficulty: 350 Elo</span>
+    <span id="difficulty">Loading...</span>
 
     <div id="puzzle">
-        <img id="puzzleImage" src="../assets/puzzles/Puzzle1.png">
+        <img id="puzzleImage" src="">
         <br>
         <input id="puzzleAnswer" type="text">
         <br>
@@ -27,6 +27,6 @@
 
     <i>Predict what the program will print.<br>3 losses and you die. Don't cheat!</i>
 
-    <script src="puzzle.js"></script>
+    <script src="/client/puzzle.js"></script>
 </body>
 </html>

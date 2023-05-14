@@ -1,0 +1,224 @@
+[
+    {
+        "image": "Puzzle4.png",
+        "difficulty": 105,
+        "answer": "Apple"
+    },
+    {
+        "image": "Puzzle10.png",
+        "difficulty": 105,
+        "answer": "Hello"
+    },
+    {
+        "image": "Puzzle11.png",
+        "difficulty": 105,
+        "answer": "27"
+    },
+    {
+        "image": "Puzzle12.png",
+        "difficulty": 105,
+        "answer": "Fine"
+    },
+    {
+        "image": "Puzzle13.png",
+        "difficulty": 105,
+        "answer": "223"
+    },
+    {
+        "image": "Puzzle14.png",
+        "difficulty": 105,
+        "answer": "Bruh"
+    },
+    {
+        "image": "Puzzle15.png",
+        "difficulty": 105,
+        "answer": "350"
+    },
+    {
+        "image": "Puzzle16.png",
+        "difficulty": 105,
+        "answer": "10 + 7"
+    },
+    {
+        "image": "Puzzle17.png",
+        "difficulty": 105,
+        "answer": "len(hello)"
+    },
+    {
+        "image": "Puzzle18.png",
+        "difficulty": 105,
+        "answer": "x = 2"
+    },
+
+
+
+    {
+        "image": "Puzzle3.png",
+        "difficulty": 150,
+        "answer": "6"
+    },
+    {
+        "image": "Puzzle6.png",
+        "difficulty": 150,
+        "answer": "10"
+    },
+    {
+        "image": "Puzzle7.png",
+        "difficulty": 175,
+        "answer": "6"
+    },
+    {
+        "image": "Puzzle19.png",
+        "difficulty": 175,
+        "answer": "13"
+    },
+    {
+        "image": "Puzzle20.png",
+        "difficulty": 175,
+        "answer": "12"
+    },
+    {
+        "image": "Puzzle21.png",
+        "difficulty": 175,
+        "answer": "5"
+    },
+    {
+        "image": "Puzzle22.png",
+        "difficulty": 175,
+        "answer": "Hello, Alice"
+    },
+    {
+        "image": "Puzzle24.png",
+        "difficulty": 175,
+        "answer": "35"
+    },
+    {
+        "image": "Puzzle25.png",
+        "difficulty": 175,
+        "answer": "MrKrabs: hello"
+    },
+    {
+        "image": "Puzzle5.png",
+        "difficulty": 175,
+        "answer": "Hello Bob"
+    },
+
+
+
+    {
+        "image": "Puzzle1.png",
+        "difficulty": 200,
+        "answer": "3"
+    },
+    {
+        "image": "Puzzle23.png",
+        "difficulty": 200,
+        "answer": "Hello World"
+    },
+    {
+        "image": "Puzzle26.png",
+        "difficulty": 200,
+        "answer": "True"
+    },
+    {
+        "image": "Puzzle27.png",
+        "difficulty": 200,
+        "answer": "True"
+    },
+    {
+        "image": "Puzzle28.png",
+        "difficulty": 200,
+        "answer": "True"
+    },
+    {
+        "image": "Puzzle2.png",
+        "difficulty": 250,
+        "answer": "11"
+    },
+    {
+        "image": "Puzzle28.png",
+        "difficulty": 250,
+        "answer": "3"
+    },
+    {
+        "image": "Puzzle29.png",
+        "difficulty": 275,
+        "answer": "It is 9"
+    },
+    {
+        "image": "Puzzle30.png",
+        "difficulty": 285,
+        "answer": "True"
+    },
+    {
+        "image": "Puzzle31.png",
+        "difficulty": 275,
+        "answer": "18"
+    },
+
+
+
+    {
+        "image": "Puzzle32.png",
+        "difficulty": 300,
+        "answer": "5"
+    },
+    {
+        "image": "Puzzle33.png",
+        "difficulty": 300,
+        "answer": "Good"
+    },
+    {
+        "image": "Puzzle34.png",
+        "difficulty": 300,
+        "answer": "Not equal"
+    },
+    {
+        "image": "Puzzle35.png",
+        "difficulty": 300,
+        "answer": "Positive"
+    },
+    {
+        "image": "Puzzle36.png",
+        "difficulty": 300,
+        "answer": "7"
+    },
+    {
+        "image": "Puzzle37.png",
+        "difficulty": 375,
+        "answer": "hiiii"
+    },
+    {
+        "image": "Puzzle38.png",
+        "difficulty": 350,
+        "answer": "5"
+    },
+    {
+        "image": "Puzzle39.png",
+        "difficulty": 350,
+        "answer": "You have enough!"
+    },
+    {
+        "image": "Puzzle40.png",
+        "difficulty": 375,
+        "answer": "64"
+    },
+    {
+        "image": "Puzzle41.png",
+        "difficulty": 350,
+        "answer": "liver innit"
+    },
+
+    
+
+    {
+        "image": "Puzzle8.png",
+        "difficulty": 650,
+        "answer": "3"
+    },
+    {
+        "image": "Puzzle9.png",
+        "difficulty": 600,
+        "answer": "Output: 14"
+    }
+]
