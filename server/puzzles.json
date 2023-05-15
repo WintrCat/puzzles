@@ -209,16 +209,104 @@
         "answer": "liver innit"
     },
 
-    
+
 
     {
-        "image": "Puzzle8.png",
-        "difficulty": 650,
-        "answer": "3"
+        "image": "Puzzle9.png",
+        "difficulty": 400,
+        "answer": "Output: 14"
     },
     {
-        "image": "Puzzle9.png",
-        "difficulty": 600,
-        "answer": "Output: 14"
+        "image": "Puzzle42.png",
+        "difficulty": 400,
+        "answer": "6"
+    },
+    {
+        "image": "Puzzle43.png",
+        "difficulty": 400,
+        "answer": "6"
+    },
+    {
+        "image": "Puzzle44.png",
+        "difficulty": 400,
+        "answer": "43"
+    },
+    {
+        "image": "Puzzle45.png",
+        "difficulty": 400,
+        "answer": "Hubert"
+    },
+    {
+        "image": "Puzzle46.png",
+        "difficulty": 400,
+        "answer": "8 even numbers"
+    },
+    {
+        "image": "Puzzle47.png",
+        "difficulty": 450,
+        "answer": "It's 8"
+    },
+    {
+        "image": "Puzzle48.png",
+        "difficulty": 450,
+        "answer": "Bruh, 6"
+    },
+    {
+        "image": "Puzzle49.png",
+        "difficulty": 475,
+        "answer": "###"
+    },
+    {
+        "image": "Puzzle51.png",
+        "difficulty": 475,
+        "answer": "123"
+    },
+    {
+        "image": "Puzzle52.png",
+        "difficulty": 475,
+        "answer": "122333"
+    },
+
+
+
+    {
+        "image": "Puzzle50.png",
+        "difficulty": 500,
+        "answer": "001012"
+    },
+    {
+        "image": "Puzzle53.png",
+        "difficulty": 500,
+        "answer": "f3,e5,g4,Qh4#,mate"
+    },
+    {
+        "image": "Puzzle54.png",
+        "difficulty": 500,
+        "answer": "Highest: 9"
+    },
+    {
+        "image": "Puzzle55.png",
+        "difficulty": 500,
+        "answer": "Sum is 15"
+    },
+    {
+        "image": "Puzzle56.png",
+        "difficulty": 500,
+        "answer": "will got 7"
+    },
+    {
+        "image": "Puzzle57.png",
+        "difficulty": 550,
+        "answer": "i"
+    },
+    {
+        "image": "Puzzle8.png",
+        "difficulty": 550,
+        "answer": "3"
     }
+
+    
+
+    
+    
 ]
